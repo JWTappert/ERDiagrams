@@ -1,0 +1,2 @@
+# ERDiagrams
+for CS340
